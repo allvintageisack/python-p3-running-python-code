@@ -1,0 +1,5 @@
+print"(Hello i am isack",end="" )
+print("and am learning python",end="!! ")
+print("to become a backend developer",end="")
+
+
